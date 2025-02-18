@@ -1,7 +1,5 @@
 # Predicting Loan Defaults Using Machine Learning Models
 
-![Loan Default Prediction](https://via.placeholder.com/800x400?text=Loan+Default+Prediction)
-
 ## Overview
 
 This project aims to forecast loan defaults using data from a peer-to-peer lending network. By accurately predicting loan defaults, lending institutions can significantly reduce their financial risk. The primary objective is to identify the most effective machine learning model based on dataset variables to predict a borrower's likelihood of default.
